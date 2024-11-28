@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github User Apps</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">100 Followers</string>
+    <string name="following">100 Following</string>
+    <string name="tab_text_1">FOLLOWER</string>
+    <string name="tab_text_2">FOLLOWING</string>
+    <string name="searchbar_hint">Pencarian ...</string>
+    <string name="favorite">favorite</string>
+    <string name="dark_mode">Dark Mode  </string>
+    <string name="tv_followers">Followers</string>
+    <string name="jml_followers">100</string>
+    <string name="tv_following">Following</string>
+    <string name="jml_following">100</string>
+    <string name="tv_repository">Repository</string>
+    <string name="jml_repo">100</string>
+</resources>
